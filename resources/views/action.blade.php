@@ -1,0 +1,1 @@
+<a href="{{ route('show', $encrypted) }}" class="btn-show" title=""><i class="icon-eye"></i></a>   
